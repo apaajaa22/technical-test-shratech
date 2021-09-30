@@ -25,6 +25,7 @@ export default function CareerContent() {
         {dataSearch.map((res) => {
           return (
             <CardCareer
+              key={res.id}
               location={res.location}
               role={res.role}
               company={res.name}
