@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Tokopedia",
+    "role": "Software Engineer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 2,
+    "name": "Shopee",
+    "role": "Software Engineer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 3,
+    "name": "Blibli",
+    "role": "React Native Developer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 4,
+    "name": "Flip",
+    "role": "DevOps Engineer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 5,
+    "name": "Lazada",
+    "role": "Web Engineer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 6,
+    "name": "Facebook",
+    "role": "Database Engineer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 7,
+    "name": "ABCD Corp",
+    "role": "System Developer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 8,
+    "name": "Tokopedia",
+    "role": "Backend Developer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 9,
+    "name": "Shopee",
+    "role": "SAP Engineer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 10,
+    "name": "Gojek",
+    "role": "Software Engineer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 11,
+    "name": "BayU",
+    "role": "Software Engineer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 12,
+    "name": "Telkomsel",
+    "role": "UI/UX Engineer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 13,
+    "name": "Indosat",
+    "role": "Web Designer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 14,
+    "name": "Zalora",
+    "role": "ReactJs Developer",
+    "location": "Jakarta"
+  },
+  {
+    "id": 15,
+    "name": "Grab",
+    "role": "React Engineer",
+    "location": "Jakarta"
+  }
+]
