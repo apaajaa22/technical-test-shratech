@@ -8,42 +8,42 @@ export default function ClientsSection() {
       <div className="grid md:grid-cols-4 grid-cols-2 gap-10 mt-20">
         <img
           src={Tokopedia}
-          className="w-full h-44 bg-cover bg-center rounded"
+          className="w-full h-44 bg-cover bg-center rounded object-cover"
           alt="img"
         />
         <img
           src={Carousell}
-          className="w-full h-44 bg-cover bg-center rounded"
+          className="w-full h-44 bg-cover bg-center rounded object-cover"
           alt="img"
         />
         <img
           src={Shopee}
-          className="w-full h-44 bg-cover bg-center rounded"
+          className="w-full h-44 bg-cover bg-center rounded object-cover"
           alt="img"
         />
         <img
           src={Blibli}
-          className="w-full h-44 bg-cover bg-center rounded"
+          className="w-full h-44 bg-cover bg-center rounded object-cover"
           alt="img"
         />
         <img
           src={Carousell}
-          className="w-full h-44 bg-cover bg-center rounded"
+          className="w-full h-44 bg-cover bg-center rounded object-cover"
           alt="img"
         />
         <img
           src={Tokopedia}
-          className="w-full h-44 bg-cover bg-center rounded"
+          className="w-full h-44 bg-cover bg-center rounded object-cover"
           alt="img"
         />
         <img
           src={Blibli}
-          className="w-full h-44 bg-cover bg-center rounded"
+          className="w-full h-44 bg-cover bg-center rounded object-cover"
           alt="img"
         />
         <img
           src={Shopee}
-          className="w-full h-44 bg-cover bg-center rounded"
+          className="w-full h-44 bg-cover bg-center rounded object-cover"
           alt="img"
         />
       </div>
